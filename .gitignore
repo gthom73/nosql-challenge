@@ -1,3 +1,6 @@
+# .DS_Store, short for Desktop Services Store, is a file in the macOS operating system. It stores custom attributes of a folder.  
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
